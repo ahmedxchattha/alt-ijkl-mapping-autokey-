@@ -5,7 +5,7 @@ Move the scripts (altijkl folder) to the directory ~/.config/autokey/data/.
 
 It provides following key mapping
 
-alt+i --> up
+alt+i --> up /n
 alt+k --> down
 alt+j --> right
 alt+l --> left
